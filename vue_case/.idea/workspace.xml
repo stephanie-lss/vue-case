@@ -93,6 +93,7 @@
       <find>modal</find>
       <find>myModal</find>
       <find>day01_eesy_vuejsdemo</find>
+      <find>编辑</find>
     </findStrings>
     <replaceStrings>
       <replace>}</replace>
